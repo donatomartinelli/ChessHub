@@ -1,4 +1,4 @@
-# Chess Study Hub
+# ChessHub
 
 Chess Study Hub is a comprehensive repository designed to enhance chess learning through game analysis, theoretical discussions, and structured progress tracking.
 
